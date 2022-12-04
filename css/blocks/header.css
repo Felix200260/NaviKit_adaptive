@@ -1,0 +1,32 @@
+.header{
+    padding-top: 17px;
+    padding-bottom: 17px; 
+    border-bottom: 1px solid #D6D6D6; 
+}
+
+.container {
+}
+.header-row {
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+}
+.header-logo {
+    /* margin-right: 10px; */
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+}
+
+.header-Navitxt {
+    color: #ffde00;
+    font-size: 30px;
+}
+.header-Kittxt {
+    color: #fe9e00;
+    font-size: 30px;
+}
+
+.sketchfab-embed-wrapper{
+    margin-top: 50px;
+}
